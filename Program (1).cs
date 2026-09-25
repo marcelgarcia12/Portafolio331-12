@@ -27,7 +27,7 @@ namespace CS4
             {
                 Console.WriteLine("El foco está encendido."); // ...impresión del estado del foco: encendido.
             }
-            else // En caso contrario, entoces...
+            else // En caso contrario, entonces...
             {
                 Console.WriteLine("El foco está apagado."); // ...impresión del estado del foco: apagado.
             }
@@ -50,7 +50,7 @@ namespace CS4
             {
                 Console.WriteLine("Biológicas"); // ...impresión de especialidad: "Biológicas".
             }
-            else // En cualquier otro caso, entocnes...
+            else // En cualquier otro caso, entonces...
             {
                 Console.WriteLine("Salón no registrado!"); // ...impresión: "Salón no registrado!".
             }
